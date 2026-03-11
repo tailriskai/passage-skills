@@ -1,0 +1,15 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "passage",
+  "owner": {
+    "name": "Passage",
+    "email": "support@getpassage.ai"
+  },
+  "plugins": [
+    {
+      "name": "passage-connect-api",
+      "source": "./",
+      "description": "Skill for building integrations with the Passage Connect API — the universal account linking platform"
+    }
+  ]
+}

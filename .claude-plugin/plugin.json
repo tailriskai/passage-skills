@@ -1,0 +1,19 @@
+{
+  "name": "passage-connect-api",
+  "description": "Build integrations with the Passage Connect API — the universal account linking platform. Provides a skill with full API reference, webhook verification patterns, and code examples.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Passage"
+  },
+  "homepage": "https://docs.getpassage.ai",
+  "repository": "https://github.com/tailriskai/passage-skills",
+  "license": "MIT",
+  "keywords": [
+    "passage",
+    "passage-connect",
+    "account-linking",
+    "api",
+    "webhooks",
+    "getpassage"
+  ]
+}
